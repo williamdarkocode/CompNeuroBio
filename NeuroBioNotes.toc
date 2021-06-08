@@ -1,0 +1,2 @@
+\contentsline {section}{\numberline {1}About this course}{3}%
+\contentsline {section}{\numberline {2}Resources}{4}%
