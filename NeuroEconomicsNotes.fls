@@ -2,8 +2,8 @@ PWD /Users/williammatrix/Desktop/CompNeuroBio
 INPUT /usr/local/texlive/2020/texmf.cnf
 INPUT /usr/local/texlive/2020/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/williammatrix/Desktop/CompNeuroBio/NeuroBioNotes.tex
-OUTPUT /Users/williammatrix/Desktop/CompNeuroBio/NeuroBioNotes.log
+INPUT /Users/williammatrix/Desktop/CompNeuroBio/NeuroEconomicsNotes.tex
+OUTPUT /Users/williammatrix/Desktop/CompNeuroBio/NeuroEconomicsNotes.log
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/size12.clo
@@ -44,9 +44,9 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-INPUT /Users/williammatrix/Desktop/CompNeuroBio/NeuroBioNotes.aux
-INPUT /Users/williammatrix/Desktop/CompNeuroBio/NeuroBioNotes.aux
-OUTPUT /Users/williammatrix/Desktop/CompNeuroBio/NeuroBioNotes.aux
+INPUT /Users/williammatrix/Desktop/CompNeuroBio/NeuroEconomicsNotes.aux
+INPUT /Users/williammatrix/Desktop/CompNeuroBio/NeuroEconomicsNotes.aux
+OUTPUT /Users/williammatrix/Desktop/CompNeuroBio/NeuroEconomicsNotes.aux
 INPUT /usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
@@ -69,12 +69,12 @@ INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-OUTPUT /Users/williammatrix/Desktop/CompNeuroBio/NeuroBioNotes.pdf
+OUTPUT /Users/williammatrix/Desktop/CompNeuroBio/NeuroEconomicsNotes.pdf
 INPUT /usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /Users/williammatrix/Desktop/CompNeuroBio/NeuroBioNotes.toc
-INPUT /Users/williammatrix/Desktop/CompNeuroBio/NeuroBioNotes.toc
+INPUT /Users/williammatrix/Desktop/CompNeuroBio/NeuroEconomicsNotes.toc
+INPUT /Users/williammatrix/Desktop/CompNeuroBio/NeuroEconomicsNotes.toc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
@@ -93,16 +93,13 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-OUTPUT /Users/williammatrix/Desktop/CompNeuroBio/NeuroBioNotes.toc
+OUTPUT /Users/williammatrix/Desktop/CompNeuroBio/NeuroEconomicsNotes.toc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-INPUT /Users/williammatrix/Desktop/CompNeuroBio/./figures/BrainImg_FromSide_SidesAnnotated.png
-INPUT /Users/williammatrix/Desktop/CompNeuroBio/./figures/BrainImg_FromSide_SidesAnnotated.png
-INPUT /Users/williammatrix/Desktop/CompNeuroBio/./figures/BrainImg_FromSide_SidesAnnotated.png
-INPUT /Users/williammatrix/Desktop/CompNeuroBio/./figures/BrainImg_CutFromSide_MidHindBrainStem.png
-INPUT /Users/williammatrix/Desktop/CompNeuroBio/./figures/BrainImg_CutFromSide_MidHindBrainStem.png
-INPUT /Users/williammatrix/Desktop/CompNeuroBio/./figures/BrainImg_CutFromSide_MidHindBrainStem.png
-INPUT /Users/williammatrix/Desktop/CompNeuroBio/NeuroBioNotes.aux
+INPUT /Users/williammatrix/Desktop/CompNeuroBio/./figures/optogenetics steps.png
+INPUT /Users/williammatrix/Desktop/CompNeuroBio/./figures/optogenetics steps.png
+INPUT /Users/williammatrix/Desktop/CompNeuroBio/./figures/optogenetics steps.png
+INPUT /Users/williammatrix/Desktop/CompNeuroBio/NeuroEconomicsNotes.aux
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
