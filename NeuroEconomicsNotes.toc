@@ -1,5 +1,0 @@
-\contentsline {section}{\numberline {1}About this course}{3}%
-\contentsline {section}{\numberline {2}Resources}{4}%
-\contentsline {section}{\numberline {3}Introduction to Neuroeconomics}{5}%
-\contentsline {subsection}{\numberline {3.1}Origin of Neuroeconomics}{5}%
-\contentsline {subsection}{\numberline {3.2}Neuroeconomics and Decision-making Theory}{5}%
