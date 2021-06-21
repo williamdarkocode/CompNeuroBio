@@ -10,3 +10,7 @@
 \contentsline {subsection}{\numberline {5.3}Glial cells}{8}%
 \contentsline {subsection}{\numberline {5.4}Myelin}{8}%
 \contentsline {subsection}{\numberline {5.5}Demyelinating Diseases}{10}%
+\contentsline {section}{\numberline {6}Central Nervous System vs. Peripheral Nervous System}{10}%
+\contentsline {subsection}{\numberline {6.1}Meninges}{10}%
+\contentsline {subsection}{\numberline {6.2}Peripheral Diseases}{11}%
+\contentsline {subsection}{\numberline {6.3}Brain Tumors}{12}%
