@@ -14,3 +14,4 @@
 \contentsline {subsection}{\numberline {6.1}Meninges}{10}%
 \contentsline {subsection}{\numberline {6.2}Peripheral Diseases}{11}%
 \contentsline {subsection}{\numberline {6.3}Brain Tumors}{12}%
+\contentsline {subsection}{\numberline {6.4}The Brain and the Spinal Cord}{12}%
