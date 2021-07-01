@@ -15,3 +15,10 @@
 \contentsline {subsection}{\numberline {6.2}Peripheral Diseases}{11}%
 \contentsline {subsection}{\numberline {6.3}Brain Tumors}{12}%
 \contentsline {subsection}{\numberline {6.4}The Brain and the Spinal Cord}{12}%
+\contentsline {section}{\numberline {7}Introduction to Neural Communication}{13}%
+\contentsline {subsection}{\numberline {7.1}Electrical Language}{13}%
+\contentsline {subsection}{\numberline {7.2}Basics of Electricity}{13}%
+\contentsline {subsection}{\numberline {7.3}Action Potential}{14}%
+\contentsline {section}{\numberline {8}Neurotransmitters}{14}%
+\contentsline {subsection}{\numberline {8.1}Neurotransmitters synthesis}{14}%
+\contentsline {subsection}{\numberline {8.2}Neurotransmitter Release}{15}%

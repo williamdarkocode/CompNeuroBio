@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  28 JUN 2021 09:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  1 JUL 2021 10:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -194,20 +194,26 @@ Overfull \hbox (6.03958pt too wide) in paragraph at lines 237--239
 []\OT1/cmr/m/n/12 Peripheral Ner-vous Sys-tem is vul-ner-a-ble to large molecules like \OT1/cmr/bx/n/12 bo-tulinum
  []
 
-[11] [12] (/Users/williammatrix/Desktop/CompNeuroBio/NeuroBioNotes.aux) ) 
+[11] [12] [13]
+<./figures/Neurtransmitters_SynapticVesicles.png, id=60, 639.38875pt x 519.9425pt>
+File: ./figures/Neurtransmitters_SynapticVesicles.png Graphic file (type png)
+<use ./figures/Neurtransmitters_SynapticVesicles.png>
+Package pdftex.def Info: ./figures/Neurtransmitters_SynapticVesicles.png  used on input line 379.
+(pdftex.def)             Requested size: 284.52756pt x 231.37766pt.
+ [14] [15 </Users/williammatrix/Desktop/CompNeuroBio/./figures/Neurtransmitters_SynapticVesicles.png>] (/Users/williammatrix/Desktop/CompNeuroBio/NeuroBioNotes.aux) ) 
 Here is how much of TeX's memory you used:
- 3547 strings out of 480608
- 51443 string characters out of 5903631
+ 3553 strings out of 480608
+ 51724 string characters out of 5903631
  287190 words of memory out of 5000000
- 19420 multiletter control sequences out of 15000+600000
+ 19425 multiletter control sequences out of 15000+600000
  541438 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  30i,6n,36p,261b,222s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on /Users/williammatrix/Desktop/CompNeuroBio/NeuroBioNotes.pdf (12 pages, 2066221 bytes).
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on /Users/williammatrix/Desktop/CompNeuroBio/NeuroBioNotes.pdf (15 pages, 2360318 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
+ 97 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
