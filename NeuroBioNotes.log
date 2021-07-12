@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  5 JUL 2021 10:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  12 JUL 2021 10:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -251,20 +251,25 @@ File: ./figures/enzyme_eat_nt4.png Graphic file (type png)
 <use ./figures/enzyme_eat_nt4.png>
 Package pdftex.def Info: ./figures/enzyme_eat_nt4.png  used on input line 460.
 (pdftex.def)             Requested size: 284.52756pt x 158.62117pt.
- [18 </Users/williammatrix/Desktop/CompNeuroBio/./figures/enzyme_eat_nt1.png>] [19 </Users/williammatrix/Desktop/CompNeuroBio/./figures/enzyme_eat_nt2.png> </Users/williammatrix/Desktop/CompNeuroBio/./figures/enzyme_eat_nt3.png> </Users/williammatrix/Desktop/CompNeuroBio/./figures/enzyme_eat_nt4.png>] [20] (/Users/williammatrix/Desktop/CompNeuroBio/NeuroBioNotes.aux) ) 
+ [18 </Users/williammatrix/Desktop/CompNeuroBio/./figures/enzyme_eat_nt1.png>] [19 </Users/williammatrix/Desktop/CompNeuroBio/./figures/enzyme_eat_nt2.png> </Users/williammatrix/Desktop/CompNeuroBio/./figures/enzyme_eat_nt3.png> </Users/williammatrix/Desktop/CompNeuroBio/./figures/enzyme_eat_nt4.png>]
+Overfull \hbox (11.31236pt too wide) in paragraph at lines 502--511
+\OT1/cmr/bx/n/12 Protein Cou-pled Re-cep-tors)\OT1/cmr/m/n/12 . Af-ter neu-ro-trans-mit-ters bind to metabotropic
+ []
+
+[20] [21] (/Users/williammatrix/Desktop/CompNeuroBio/NeuroBioNotes.aux) ) 
 Here is how much of TeX's memory you used:
  3607 strings out of 480608
  53287 string characters out of 5903631
- 287190 words of memory out of 5000000
+ 288190 words of memory out of 5000000
  19470 multiletter control sequences out of 15000+600000
  541438 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  30i,6n,36p,261b,222s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on /Users/williammatrix/Desktop/CompNeuroBio/NeuroBioNotes.pdf (20 pages, 5723670 bytes).
+Output written on /Users/williammatrix/Desktop/CompNeuroBio/NeuroBioNotes.pdf (21 pages, 5727490 bytes).
 PDF statistics:
- 131 PDF objects out of 1000 (max. 8388607)
- 72 compressed objects within 1 object stream
+ 134 PDF objects out of 1000 (max. 8388607)
+ 74 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  71 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -25,3 +25,6 @@
 \contentsline {subsection}{\numberline {8.3}Clostridial Toxins}{17}%
 \contentsline {subsection}{\numberline {8.4}Signal Termination}{17}%
 \contentsline {subsection}{\numberline {8.5}Receptors}{19}%
+\contentsline {subsection}{\numberline {8.6}Metabotropic Receptors}{20}%
+\contentsline {section}{\numberline {9}Embodied Emotion}{21}%
+\contentsline {subsection}{\numberline {9.1}Enteric Nervous System}{21}%
